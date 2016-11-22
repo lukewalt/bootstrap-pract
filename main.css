@@ -1,6 +1,26 @@
 
-/*<------------------ Basic ------------------->*/
+/*<------------------ Basic ---------------->*/
+
+.container {
+  padding: 5% 0;
+}
 
 h1 {
   color: red;
+  text-align: center;
+}
+
+/*<------------------ Bootstrap ------------>*/
+
+.col-md-4 {
+  border: 1px solid black
+}
+
+.col-md-8 {
+  border: 1px solid black
+
+}
+
+.col-md-3 {
+  border: 1px solid grey
 }
