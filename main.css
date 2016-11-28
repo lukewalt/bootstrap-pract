@@ -10,7 +10,17 @@ h1 {
   text-align: center;
 }
 
+.header-image-earth {
+  width: 250px;
+  margin: 5%;
+  border: 10px solid tomato;
+}
+
 /*<------------------ Bootstrap ------------>*/
+
+.col-md-12 {
+  text-align: center;
+}
 
 .col-md-4 {
   border: 1px solid black
